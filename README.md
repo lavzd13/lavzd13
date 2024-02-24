@@ -1,5 +1,5 @@
 
-![](https://komarev.com/ghpvc/?username=lavzd13&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=lavzd13&color=blueviolet&style=for-the-badge)
 
 - 👋 Hi, I’m @lavzd13
 - 👀 I’m interested in programming, cybersecurity(pentesting), computer networks and cars.
