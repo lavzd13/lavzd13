@@ -8,9 +8,12 @@
   <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" ></img>
   </p>
   <br>
-
-  - 👋 Hi, I’m Jovan
-  - 👀 I’m interested in programming, cybersecurity(pentesting), computer networks and cars.
-  - 🌱 I’m currently enrolled in common_core at 42Vienna where are I currently learn C/C++ programming.
+  <p>
+    <ul>
+    <li>👋 Hi, I’m Jovan</li>
+    <li>👀 I’m interested in programming, cybersecurity(pentesting), computer networks and cars.</li>
+    <li>🌱 I’m currently enrolled in common_core at 42Vienna where are I currently learn C/C++ programming.</li>
+    </ul>
+  </p>
 
 </html>
