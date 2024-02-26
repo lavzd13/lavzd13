@@ -17,7 +17,7 @@
       <p><a href="https://github.com/lavzd13/42Vienna/tree/main/common_core_projects">42Vienna-common_core_projects</a>: Here are all my projects that I have done during common core.</p>
   </details>
   </p>
-<hr>
+  <hr>
   <h2>Skills:</h2>
   <br>
   <li>Languages:</li>
@@ -37,3 +37,5 @@
     <img align=center height=42px width=42px src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/VIM-Dark.svg">
     </ul>
   </p>
+  <h2>Contact me:</h2>
+  <a href="https://www.linkedin.com/in/jovan-lomi%C4%87-176060265/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
