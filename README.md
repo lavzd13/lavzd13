@@ -4,11 +4,11 @@
   <br>
   <p>Currently, I am studying at 42 School in Vienna 📚 </p>
   <br>
-  <details>
-    <summary> 📚 42Vienna</summary>
-      <p><a href="https://github.com/lavzd13/42Vienna/tree/main/piscine_projects" >42Vienna-piscine_projects</a>: Here are all my projects that I done during my testing (<a href="https://www.42vienna.com/applications/"><b>piscine</b></a>) for 42 School.</p>
-      <p><a href="https://github.com/lavzd13/42Vienna/tree/main/common_core_projects">42Vienna-common_core_projects</a>: Here are all my projects that I have done during common core.</p>
-  </details>
+  <li> 📚 42Vienna</li>
+    <ul>
+      <li><a href="https://github.com/lavzd13/42Vienna/tree/main/piscine_projects" >42Vienna-piscine_projects</a>: Here are all my projects that I done during my testing (<a href="https://www.42vienna.com/applications/"><b>piscine</b></a>) for 42 School.</li>
+      <li><a href="https://github.com/lavzd13/42Vienna/tree/main/common_core_projects">42Vienna-common_core_projects</a>: Here are all my projects that I have done during common core.</li>
+    </ul>
   <hr>
   <h2>Interests:</h2>
   <p>
