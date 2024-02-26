@@ -18,22 +18,22 @@
       </details>
   </p>
 <hr>
-    <h2>Skills:</h2>
-    <br>
-    <li>Languages:</li>
-    <p>
-      <ul>
-      <img align=center height=42px width=42px src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/C.svg">
-      <img align=center height=42px width=42px src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/CPP.svg">
-      <img align=center height=42px width=42px src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/HTML.svg">
-      </ul>
-    </p>
-    <li>Tools:</li>
-    <p>
-      <ul>
-      <img align=center height=42px width=42px src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Linux-Dark.svg">
-      <img align=center height=42px width=42px src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Git.svg">
-      <img align=center height=42px width=42px src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/VSCode-Dark.svg">
-      <img align=center height=42px width=42px src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/VIM-Dark.svg">
-      </ul>
-    </p>
+  <h2>Skills:</h2>
+  <br>
+  <li>Languages:</li>
+  <p>
+    <ul>
+    <img align=center height=42px width=42px src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/C.svg">
+    <img align=center height=42px width=42px src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/CPP.svg">
+    <img align=center height=42px width=42px src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/HTML.svg">
+    </ul>
+  </p>
+  <li>Tools:</li>
+  <p>
+    <ul>
+    <img align=center height=42px width=42px src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Linux-Dark.svg">
+    <img align=center height=42px width=42px src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/Git.svg">
+    <img align=center height=42px width=42px src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/VSCode-Dark.svg">
+    <img align=center height=42px width=42px src="https://raw.githubusercontent.com/tandpfun/skill-icons/e67133bc60d96561bc247dfbc3eece0a897285c8/icons/VIM-Dark.svg">
+    </ul>
+  </p>
