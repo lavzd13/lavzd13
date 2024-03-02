@@ -8,7 +8,8 @@
     <ul>
       <li><a href="https://github.com/lavzd13/42Vienna/tree/main/piscine_projects" >42Vienna-piscine_projects</a>: Here are all my projects that I done during my testing (<a href="https://www.42vienna.com/applications/"><b>piscine</b></a>) for 42 School.</li>
       <li><a href="https://github.com/lavzd13/42Vienna/tree/main/common_core_projects">42Vienna-common_core_projects</a>: Here are all my projects that I have done during common core.</li>
-    </ul>
+    </ul> 
+  <a href="https://profile.intra.42.fr/users/jlomic"><img src="https://badge.mediaplus.ma/darkblue/jlomic?1337Badge=off&UM6P=off" alt="jlomic's 42 stats" /></a>
   <hr>
   <h2>Interests:</h2>
   <p>
